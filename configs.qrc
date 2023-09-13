@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>conf1.ini</file>
+        <file>conf2.ini</file>
+    </qresource>
+</RCC>
